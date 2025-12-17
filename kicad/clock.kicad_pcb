@@ -9,8 +9,8 @@
 	(paper "A3")
 	(title_block
 		(title "Logic Clock")
-		(date "2025-11-16")
-		(rev "1.2")
+		(date "2025-11-27")
+		(rev "1.4")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -19848,7 +19848,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "V1.2"
+	(gr_text "V1.4"
 		(at 121.5 171.5 0)
 		(layer "F.SilkS")
 		(uuid "1b4199df-7819-4bdc-ab04-040acddc9c22")

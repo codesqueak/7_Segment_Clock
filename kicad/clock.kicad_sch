@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "Logic Clock")
-		(date "2025-10-31")
-		(rev "1.0")
+		(date "2025-11-27")
+		(rev "1.4")
 	)
 	(lib_symbols
 		(symbol "4xxx:4013"
@@ -6202,6 +6202,19 @@
 			)
 		)
 		(uuid "3817c896-04c4-4af7-be48-bd84090e04e0")
+	)
+	(text "5161AS  - Red\n5161AO  - Orange (Never found one!)\n5161AY  - Yellow\n5161AG  - Olivine\n5161AGG - Emerald\n5611AB  - Blue\n5161AW  - White\n\nSC56-11SYKWA - Bright Yellow\n\n"
+		(exclude_from_sim no)
+		(at 366.014 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "4d9fc21f-d547-42bb-8bdb-be4ac3a54c01")
 	)
 	(text "D6L90 F2 LFS"
 		(exclude_from_sim no)
